@@ -27,7 +27,7 @@ require (
 	github.com/google/martian/v3 v3.0.1
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
-	github.com/hashicorp/go-retryablehttp v0.6.8
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hashicorp/go-version v1.2.1
 	github.com/jpillora/backoff v1.0.0
 	github.com/logrusorgru/aurora v2.0.3+incompatible
@@ -41,8 +41,8 @@ require (
 	github.com/stretchr/testify v1.8.0
 	github.com/yudai/gojsondiff v1.0.0
 	golang.org/x/exp v0.0.0-20220428152302-39d4317da171
-	golang.org/x/term v0.5.0
-	golang.org/x/text v0.7.0
+	golang.org/x/term v0.18.0
+	golang.org/x/text v0.14.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.26.3
 	k8s.io/apimachinery v0.26.3
@@ -69,7 +69,7 @@ require (
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b // indirect
 	github.com/google/gofuzz v1.1.0 // indirect
 	github.com/hashicorp/errwrap v1.0.0 // indirect
-	github.com/hashicorp/go-cleanhttp v0.5.1 // indirect
+	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/inconshreveable/mousetrap v1.0.1 // indirect
@@ -78,8 +78,8 @@ require (
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/lucasb-eyer/go-colorful v1.0.3 // indirect
 	github.com/magiconair/properties v1.8.1 // indirect
-	github.com/mattn/go-colorable v0.1.6 // indirect
-	github.com/mattn/go-isatty v0.0.12 // indirect
+	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.10 // indirect
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
@@ -96,9 +96,9 @@ require (
 	github.com/spf13/jwalterweatherman v1.0.0 // indirect
 	github.com/subosito/gotenv v1.2.0 // indirect
 	github.com/yudai/golcs v0.0.0-20170316035057-ecda9a501e82 // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	google.golang.org/protobuf v1.28.1 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/sys v0.20.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
